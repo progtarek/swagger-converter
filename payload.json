@@ -1,0 +1,181 @@
+{
+  "type": "SUCCESS",
+  "payload": {
+    "docs": [{
+        "_id": "5d4af452fcce70001a5ba048",
+        "name": {
+          "en": "Tassa",
+          "ar": "طاسة"
+        },
+        "branchName": {
+          "ar": "سموحة",
+          "en": "Smouha"
+        },
+        "categories": [{
+          "_id": "5bb386cd2e2979000f917ad7",
+          "name": {
+            "en": "Restaurants & Cafe",
+            "ar": "المطاعم والمقاهي"
+          }
+        }],
+        "placeProfilePictureUrl": "https://media.qurba-dev.com/profile_1565192413573.jpeg"
+      },
+      {
+        "_id": "5e564ace21dcc3001414f05f",
+        "name": {
+          "en": "Tipas",
+          "ar": "طيباس"
+        },
+        "branchName": {
+          "en": "Camp Cesar",
+          "ar": "كامب شيزار"
+        },
+        "placeProfilePictureUrl": "https://media.qurba-dev.com/places/profile/51_1582713452399.png",
+        "categories": [{
+          "_id": "5bb386cd2e2979000f917ad7",
+          "name": {
+            "en": "Restaurants & Cafe",
+            "ar": "المطاعم والمقاهي"
+          }
+        }]
+      },
+      {
+        "_id": "5e54f3d621dcc3001414eff2",
+        "name": {
+          "en": "Crisp",
+          "ar": "كريسب"
+        },
+        "branchName": {
+          "en": "Smouha",
+          "ar": "سموحة"
+        },
+        "placeProfilePictureUrl": "https://media.qurba-dev.com/places/profile/64_1582625404651.png",
+        "categories": [{
+          "_id": "5bb386cd2e2979000f917ad7",
+          "name": {
+            "en": "Restaurants & Cafe",
+            "ar": "المطاعم والمقاهي"
+          }
+        }]
+      },
+      {
+        "_id": "5e8b9014674cbb00123391ee",
+        "name": {
+          "en": "Crepe club",
+          "ar": "كريب كلوب"
+        },
+        "branchName": {
+          "en": "Sporting",
+          "ar": "سبورتنج"
+        },
+        "placeProfilePictureUrl": "https://media.qurba-dev.com/places/profile/1_1586204170758.png",
+        "categories": [{
+          "_id": "5bb386cd2e2979000f917ad7",
+          "name": {
+            "en": "Restaurants & Cafe",
+            "ar": "المطاعم والمقاهي"
+          }
+        }]
+      },
+      {
+        "_id": "5d4af452fcce70001a5ba048",
+        "name": {
+          "en": "Tassa",
+          "ar": "طاسة"
+        },
+        "branchName": {
+          "ar": "سموحة",
+          "en": "Smouha"
+        },
+        "categories": [{
+          "_id": "5bb386cd2e2979000f917ad7",
+          "name": {
+            "en": "Restaurants & Cafe",
+            "ar": "المطاعم والمقاهي"
+          }
+        }],
+        "placeProfilePictureUrl": "https://media.qurba-dev.com/profile_1565192413573.jpeg"
+      },
+      {
+        "_id": "5d4af452fcce70001a5ba048",
+        "name": {
+          "en": "Tassa",
+          "ar": "طاسة"
+        },
+        "branchName": {
+          "ar": "سموحة",
+          "en": "Smouha"
+        },
+        "categories": [{
+          "_id": "5bb386cd2e2979000f917ad7",
+          "name": {
+            "en": "Restaurants & Cafe",
+            "ar": "المطاعم والمقاهي"
+          }
+        }],
+        "placeProfilePictureUrl": "https://media.qurba-dev.com/profile_1565192413573.jpeg"
+      },
+      {
+        "_id": "5c76d9c9618a650017ee5d95",
+        "name": {
+          "en": "The Q Community",
+          "ar": "كيو كوميونيتي"
+        },
+        "branchName": {
+          "en": "Saba Basha",
+          "ar": "سابا باشا"
+        },
+        "categories": [{
+          "_id": "5bb386cd2e2979000f917ad7",
+          "name": {
+            "en": "Restaurants & Cafe",
+            "ar": "المطاعم والمقاهي"
+          }
+        }],
+        "placeProfilePictureUrl": "https://media.qurba-dev.com/profile_1561741381489.jpeg"
+      },
+      {
+        "_id": "5e54f3d621dcc3001414eff2",
+        "name": {
+          "en": "Crisp",
+          "ar": "كريسب"
+        },
+        "branchName": {
+          "en": "Smouha",
+          "ar": "سموحة"
+        },
+        "placeProfilePictureUrl": "https://media.qurba-dev.com/places/profile/64_1582625404651.png",
+        "categories": [{
+          "_id": "5bb386cd2e2979000f917ad7",
+          "name": {
+            "en": "Restaurants & Cafe",
+            "ar": "المطاعم والمقاهي"
+          }
+        }]
+      },
+      {
+        "_id": "5e54f3d621dcc3001414eff2",
+        "name": {
+          "en": "Crisp",
+          "ar": "كريسب"
+        },
+        "branchName": {
+          "en": "Smouha",
+          "ar": "سموحة"
+        },
+        "placeProfilePictureUrl": "https://media.qurba-dev.com/places/profile/64_1582625404651.png",
+        "categories": [{
+          "_id": "5bb386cd2e2979000f917ad7",
+          "name": {
+            "en": "Restaurants & Cafe",
+            "ar": "المطاعم والمقاهي"
+          }
+        }]
+      }
+    ],
+    "total": 9,
+    "limit": 10,
+    "page": 1,
+    "pages": 1
+  }
+}

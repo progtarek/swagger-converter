@@ -5,7 +5,7 @@
   },
   "nodemonConfig": {
     "ignore": [
-      "res.json"
+      "output.json"
     ]
   }
 }
