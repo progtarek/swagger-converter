@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon app.js"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "res.json"
+    ]
+  }
+}

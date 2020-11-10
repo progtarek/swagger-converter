@@ -1,0 +1,98 @@
+{
+  "type": {
+    "type": "string",
+    "example": "SUCCESS"
+  },
+  "payload": {
+    "type": "object",
+    "properties": {
+      "docs": {
+        "type": "object",
+        "properties": {
+          "0": {
+            "type": "object",
+            "properties": {
+              "_id": {
+                "type": "string",
+                "example": "5d4af452fcce70001a5ba048"
+              },
+              "name": {
+                "type": "object",
+                "properties": {
+                  "en": {
+                    "type": "string",
+                    "example": "Tassa"
+                  },
+                  "ar": {
+                    "type": "string",
+                    "example": "طاسة"
+                  }
+                }
+              },
+              "branchName": {
+                "type": "object",
+                "properties": {
+                  "ar": {
+                    "type": "string",
+                    "example": "سموحة"
+                  },
+                  "en": {
+                    "type": "string",
+                    "example": "Smouha"
+                  }
+                }
+              },
+              "categories": {
+                "type": "object",
+                "properties": {
+                  "0": {
+                    "type": "object",
+                    "properties": {
+                      "_id": {
+                        "type": "string",
+                        "example": "5bb386cd2e2979000f917ad7"
+                      },
+                      "name": {
+                        "type": "object",
+                        "properties": {
+                          "en": {
+                            "type": "string",
+                            "example": "Restaurants & Cafe"
+                          },
+                          "ar": {
+                            "type": "string",
+                            "example": "المطاعم والمقاهي"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "placeProfilePictureUrl": {
+                "type": "string",
+                "example": "https://media.qurba-dev.com/profile_1565192413573.jpeg"
+              }
+            }
+          }
+        }
+      },
+      "total": {
+        "type": "number",
+        "example": 9
+      },
+      "limit": {
+        "type": "number",
+        "example": 10
+      },
+      "page": {
+        "type": "number",
+        "example": 1
+      },
+      "pages": {
+        "type": "number",
+        "example": 1
+      }
+    }
+  }
+}
